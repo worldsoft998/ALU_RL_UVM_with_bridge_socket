@@ -1,0 +1,12 @@
++incdir+./uvm
+rtl/alu.sv
+uvm/uvm_pkg.sv
+uvm/interface.sv
+uvm/seq_item.sv
+uvm/sequence.sv
+uvm/driver.sv
+uvm/monitor.sv
+uvm/scoreboard.sv
+uvm/env.sv
+uvm/test.sv
+uvm/tb_top.sv
