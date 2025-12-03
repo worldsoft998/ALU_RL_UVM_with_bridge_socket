@@ -1,0 +1,3 @@
+[Diagram placeholder]
+UVM DUT <--> UVM Bridge Agent <==BSHL==> cocotb Bridge <==Socket==> RL Trainer (Gym)
+Multiple cocotb Bridge instances can run on different ports for parallel sampling.
